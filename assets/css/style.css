@@ -8,7 +8,8 @@ body {
   line-height: 34px;
   color: #5e5757;
   background: url("../images/Background_Fotor4_Fotor.jpg");
-  background-size: 1430px;
+	background-size: 1430px;
+	background-repeat: no-repeat;
   position: relative;
 }
 #body-porfolio{
@@ -18,7 +19,6 @@ body {
   color: #5e5757;
   background: url("../images/Background_Fotor2.jpg");
 	background-size: 1430px;
-	background-repeat: no-repeat;
   position: relative;
 }
 
