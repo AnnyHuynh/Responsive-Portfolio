@@ -9,8 +9,7 @@ body {
   color: #5e5757;
   background: url("../images/Background_Fotor4_Fotor.jpg");
 	background-size: 1430px;
-	background-repeat: no-repeat;  
-  position: relative;
+	position: relative
 }
 #body-porfolio{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
